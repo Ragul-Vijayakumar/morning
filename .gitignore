@@ -35,3 +35,18 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+.idea/
+.tmp/
+dist/
+.vscode
+/npm-debug.log
+.jshintrc
+.yo-rc.json
+.editorconfig
+.DS_Store
